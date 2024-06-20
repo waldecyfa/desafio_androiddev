@@ -1,4 +1,4 @@
-A modern-styled homepage for a fictional company built with React.js and CSS.
+Site criado em React.js and CSS.
 
 ## **How to Setup** 🛠️
 
