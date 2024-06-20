@@ -2,7 +2,7 @@ Site criado em React.js and CSS.
 
 ## **How to Setup** 🛠️
 
-Clone repository and install
+Clone do repositório
 
 ```bash
 git clone https://github.com/KennethOnuorah/Website.git
